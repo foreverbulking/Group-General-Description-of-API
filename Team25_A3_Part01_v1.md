@@ -54,7 +54,7 @@ The 3040Crypto API provides users with a fast, reliable, and secure way to manag
     "balance":112.70
   }
 
-### 1. Perform Transaction
+### 2. Perform Transaction
  - **Sample Request** 
 
   POST /api/v1/wallet/transaction
@@ -77,7 +77,7 @@ The 3040Crypto API provides users with a fast, reliable, and secure way to manag
     "message":"transaction completed successfully"
   }
 
-  ### 1. Get Market Data 
+  ### 3. Get Market Data 
  - **Sample Request** 
 
   GET /api/v1/wallet/data?currency=Etherium
